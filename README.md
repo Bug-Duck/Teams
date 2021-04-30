@@ -1,7 +1,7 @@
-# DevOps
-负责运营维护组织的网站，即[bugduck.org](http://bugduck.org)和[bugduck.ga](https://bugduck.ga/)。
+# CustomerHelp
+负责向客户提出的问题和质疑提出回答，也就是用户部。
 
 ## 成员
-**负责：[cao-zhiming](https://github.com/cao-zhiming)**
+**负责：<暂无>** ，请申请Pull Request来成为负责者。
 
 其他成员：请申请Pull Request来成为成员。
