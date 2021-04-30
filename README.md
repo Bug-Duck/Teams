@@ -1,4 +1,4 @@
-# People-Teams
+# Teams
 A repo describing the teams at bugduck.
 
 Bugduck由详细的多个Team构成。各个Team负责完成不同的使命，分工合作。
