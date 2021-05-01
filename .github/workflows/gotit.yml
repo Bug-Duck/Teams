@@ -1,0 +1,16 @@
+name: GotIt
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: '谢谢你的Issue！我们会尽快解决你的问题！'
+        pr-message: '谢谢你的Pull Request！我们将尽快处理！'
